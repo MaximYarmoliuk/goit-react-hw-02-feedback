@@ -1,0 +1,17 @@
+.goodMark{
+    margin: 5px;
+    background-color: green;
+    border-radius: 5px
+}
+
+.neutralMark{
+    margin: 5px;
+    background-color: yellow;
+    border-radius: 5px
+}
+
+.badMark{
+    margin: 5px;
+    background-color: red;
+    border-radius: 5px
+}

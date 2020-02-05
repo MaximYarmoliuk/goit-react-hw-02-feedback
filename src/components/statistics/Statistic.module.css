@@ -1,0 +1,27 @@
+.goodMark{
+    color: green
+}
+
+.badMark{
+    color: red
+}
+
+.neutralMark{
+    color: yellow
+}
+
+.totalMark{
+    color: blue
+}
+
+.percentageGood{
+    color:green
+}
+
+.percentageNeutral{
+    color:yellow
+}
+
+.percentageBad{
+    color: red
+}
