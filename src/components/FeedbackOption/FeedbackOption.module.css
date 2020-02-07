@@ -1,16 +1,16 @@
-.goodMark{
+.good{
     margin: 5px;
     background-color: green;
     border-radius: 5px
 }
 
-.neutralMark{
+.neutral{
     margin: 5px;
     background-color: yellow;
     border-radius: 5px
 }
 
-.badMark{
+.bad{
     margin: 5px;
     background-color: red;
     border-radius: 5px
